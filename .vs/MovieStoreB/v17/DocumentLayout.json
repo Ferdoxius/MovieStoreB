@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gamin\\Desktop\\MovieStoreB-movies_cache\\MovieStoreB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3BFFAD-ADE9-4380-B97B-38BE146D81AE}|MovieStoreB.Models\\MovieStoreB.Models.csproj|c:\\users\\gamin\\desktop\\moviestoreb-movies_cache\\moviestoreb\\moviestoreb.models\\configurations\\mongodbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3BFFAD-ADE9-4380-B97B-38BE146D81AE}|MovieStoreB.Models\\MovieStoreB.Models.csproj|solutionrelative:moviestoreb.models\\configurations\\mongodbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3BFFAD-ADE9-4380-B97B-38BE146D81AE}|MovieStoreB.Models\\MovieStoreB.Models.csproj|c:\\users\\gamin\\desktop\\moviestoreb-movies_cache\\moviestoreb\\moviestoreb.models\\moviestoreb.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA3BFFAD-ADE9-4380-B97B-38BE146D81AE}|MovieStoreB.Models\\MovieStoreB.Models.csproj|solutionrelative:moviestoreb.models\\moviestoreb.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MongoDbConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\gamin\\Desktop\\MovieStoreB-movies_cache\\MovieStoreB\\MovieStoreB.Models\\Configurations\\MongoDbConfiguration.cs",
+              "RelativeDocumentMoniker": "MovieStoreB.Models\\Configurations\\MongoDbConfiguration.cs",
+              "ToolTip": "C:\\Users\\gamin\\Desktop\\MovieStoreB-movies_cache\\MovieStoreB\\MovieStoreB.Models\\Configurations\\MongoDbConfiguration.cs",
+              "RelativeToolTip": "MovieStoreB.Models\\Configurations\\MongoDbConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:02:55.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieStoreB.Models",
+              "DocumentMoniker": "C:\\Users\\gamin\\Desktop\\MovieStoreB-movies_cache\\MovieStoreB\\MovieStoreB.Models\\MovieStoreB.Models.csproj",
+              "RelativeDocumentMoniker": "MovieStoreB.Models\\MovieStoreB.Models.csproj",
+              "ToolTip": "C:\\Users\\gamin\\Desktop\\MovieStoreB-movies_cache\\MovieStoreB\\MovieStoreB.Models\\MovieStoreB.Models.csproj",
+              "RelativeToolTip": "MovieStoreB.Models\\MovieStoreB.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T16:02:52.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
